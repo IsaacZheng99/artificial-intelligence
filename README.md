@@ -8,4 +8,5 @@
 - machine-learning
   - 学习机器学习的笔记。
   - 主要是吴恩达和李宏毅两位老师的课程笔记。
-
+- PyTorch
+  - 学习PyTorch相关interface用法的笔记。

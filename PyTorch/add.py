@@ -26,6 +26,6 @@ c4 = a.add(b)
 print(a)
 print(c4)
 
-# 5. add_()  here "_" means this is an in-place operation
+# 5. add_() here "_" means this is an in-place operation
 a.add_(b)
 print(a)

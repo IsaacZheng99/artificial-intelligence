@@ -10,5 +10,5 @@
   - 主要是吴恩达和李宏毅两位老师的课程笔记。
 - PyTorch
   - 学习PyTorch相关interface用法的笔记。
-    - different ways to adding two tensors
-    - different usages of the view() function
+    - add.py: different ways to adding two tensors
+    - view.py: different usages of the view() function

@@ -36,3 +36,18 @@ print(y4.shape)
 y5 = x.view(2, 2, 4)
 print(y5)
 print(y5.shape)
+
+# 6. the usage of the "-1" argument in the view() function
+# the core is that the length of the variable-length parameter "*shape" is the dimension of the new tensor, 
+# and the "-1" will help calculate the corresponding dimension automatically
+y6 = x.view(-1, 16)
+print(y6)
+print(y6.shape)
+
+y7 = x.view(-1, 2)
+print(y7)
+print(y7.shape)
+
+y8 = x.view(-1, 2, 4)
+print(y8)
+print(y8.shape)

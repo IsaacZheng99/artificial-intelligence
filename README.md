@@ -12,3 +12,4 @@
   - 学习PyTorch相关interface用法的笔记。
     - add.py: different ways to adding two tensors
     - view.py: different usages of the view() function
+    - item.py: the usage of the item() function

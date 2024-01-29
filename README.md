@@ -13,3 +13,4 @@
     - add.py: different ways to adding two tensors
     - view.py: different usages of the view() function
     - item.py: the usage of the item() function
+    - create_tensor.py: different ways to creat a tensor
